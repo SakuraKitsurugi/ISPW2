@@ -1,7 +1,8 @@
 > [!IMPORTANT]
 > Grade: 10/10
-## Task:
+## Description:
 **Develop an Encryption/Decryption System. Use AES algorithm to encrypt/decrypt message.**
+## Tasks:
 - - [x] A plaintext input field where the user enters the text to be encrypted.
 - - [x] A secret key input field where the user can enter the secret key.
 - - [x] A result field where the user can see the encrypted or decrypted text.
